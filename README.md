@@ -6,9 +6,6 @@ For more context and background, please see our blog post https://medium.com/kze
 
 The tool is based on the bip39 project by Ian Coleman https://github.com/iancoleman/bip39
 
-## Online Version
-
-[https://TAI-UK.github.io/Restoring-the-seed-phrase/src/index.html]
 
 ## Standalone offline version
 
